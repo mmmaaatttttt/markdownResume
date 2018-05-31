@@ -2,7 +2,7 @@
 
 <p align="center">
   Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249<br>
-  Website: <a href="https://spacexengineer.github.io/">spacexengineer.github.io</a> | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)
+  Website: <a href="https://spacexengineer.github.io/">spacexengineer.github.io</a> | LinkedIn: <a href="https://www.linkedin.com/in/hcasbeer/">linkedin/in/hcasbeer</a> | Github: <a href="https://github.com/spacexengineer">github.com/spacexengineer</a>
   </p>
 
 
