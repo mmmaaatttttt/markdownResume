@@ -5,7 +5,13 @@
   Website: <a href="https://spacexengineer.github.io/">spacexengineer.github.io</a> | LinkedIn: <a href="https://www.linkedin.com/in/hcasbeer/">linkedin/in/hcasbeer</a> | Github: <a href="https://github.com/spacexengineer">github.com/spacexengineer</a>
   </p>
 
+<h3 align="center">Technologies</h3>
 
+---
+
+<p> align="center">
+  JavaScript, Python, C, React, Redux, jQuery, Node.js, Flask, PostgreSQL, MySQL, MongoDB, HTML5, CSS3, Bootstrap, Git, Linux Ubuntu, Vagrant, Nginx, Gunicorn, Bash, Puppet  
+</p>
 
 <h3 align="center">Experience</h3>
 
