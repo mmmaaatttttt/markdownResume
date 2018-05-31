@@ -1,6 +1,6 @@
 <h1 align="center">Hunter Casbeer</h1>
 
-<div align="center">Website: [spacexengineer.github.io](https://spacexengineer.github.io/) | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)</div>
+<h5 align="center">Website: [spacexengineer.github.io](https://spacexengineer.github.io/) | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)</h5>
 
 
 
