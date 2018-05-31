@@ -1,14 +1,11 @@
-<h1 align="center">Hunter Casbeer</h1>
-<p align="center">Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249</p>
-
-
+[**Rithm School**](https://www.rithmschool.com/)
 
 
 <h3 align="center">Experience</h3>
 
 <h4>Loom | San Francisco, CA | Software Developer Intern <span style="float:right">2018</span></h4>
 
-[**Rithm School**](https://www.rithmschool.com/)
+
 
 - Built drag and drop feature Draft.js (React text editor) with 5+ supporting technologies: Draft.js, Immutable.js, React, Styled-Components, HTML5 drag and drop API; codebase included: GraphQL, Go, PostgreSQL
 - Documented implementations directly with founder and CEO with a team of less than 10 engineers
