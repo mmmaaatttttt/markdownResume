@@ -8,6 +8,8 @@
 
 <h4>Loom | San Francisco, CA | Software Developer Intern <span style="float:right">2018</span></h4>
 
+[**Rithm School**](https://www.rithmschool.com/)
+
 - Built drag and drop feature Draft.js (React text editor) with 5+ supporting technologies: Draft.js, Immutable.js, React, Styled-Components, HTML5 drag and drop API; codebase included: GraphQL, Go, PostgreSQL
 - Documented implementations directly with founder and CEO with a team of less than 10 engineers
 - Prototyped 10+ apps to solidify understanding of Draft.js
@@ -49,6 +51,3 @@
 - [**Rithm School**](https://www.rithmschool.com/) **| San Francisco, CA | 4 month full stack school <span style="float:right">2018</span>**
 - [**Holberton School**](https://www.holbertonschool.com/) **| San Francisco, CA | 2 year full stack school <span style="float:right">2017 - 2018</span>**
 - [**Kettering University**](https://www.kettering.edu/) **| Flint, MI | BS Electrical Engineering, GPA: 3.71/4.00 <span style="float:right">2012 - 2016</span>**
-
-
-[**Rithm School**](https://www.rithmschool.com/)
