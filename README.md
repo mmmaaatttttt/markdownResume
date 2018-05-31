@@ -15,7 +15,7 @@
 - Documented implementations directly with founder and CEO with a team of less than 10 engineers
 - Prototyped 10+ apps to solidify understanding of Draft.js
 
-<h4 align="right">Spira | Cork, Ireland | Co-founder | $100k backed by RebelBio <span style="float:right">2016</span></h4>
+<h4>Spira | Cork, Ireland | Co-founder | $100k backed by RebelBio <p align="right">2016</p></h4>
 
 - Developed mass-production algae bioreactor that produces spirulina at an ~80% quality production
 - Co-developed the company&#39;s first drink – our core product, live spirulina algae in a bottle, one of the first drinks in the world to have a consumable living organism growing in a bottle
