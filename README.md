@@ -8,7 +8,9 @@
 
 
 <h3 align="center">Experience</h3>
+
 ---
+
 <h4 margin=0>Loom | San Francisco, CA | Software Developer Intern | 2018</h4>
 <ul>
   <li>Built drag and drop feature Draft.js (React text editor) with 5+ supporting technologies: Draft.js, Immutable.js, React, Styled-Components, HTML5 drag and drop API; codebase included: GraphQL, Go, PostgreSQL</li>
@@ -41,6 +43,8 @@
 
 <h3 align="center">Projects</h3>
 
+---
+
 - [**Airbnb Clone**](https://github.com/spacexengineer/AirBnB_clone_v4) - full stack clone – Python, Flask, MySQL, jQuery, JavaScript, HTML, CSS, Nginx, Docker
 - [**Medium Search App**](https://github.com/spacexengineer/ParseMe) - search users blogs for keywords - Python, Jinja and Bootstrap
 - [**React-Redux Weather App**](https://github.com/spacexengineer/react-weather-app) - React, Redux, ES6 JavaScript, Bootstrap, Open Weather API
@@ -48,6 +52,8 @@
 - [**Linkedin Backend Clone**](https://github.com/spacexengineer/linkedlist-1) - Node.js, MongoDB, JSON web tokens, fully RESTful API with CRUD
 
 <h3 align="center">Education</h3>
+
+---
 
 - [**Rithm School**](https://www.rithmschool.com/) **| San Francisco, CA | 4 month full stack school <span style="float:right">2018</span>**
 - [**Holberton School**](https://www.holbertonschool.com/) **| San Francisco, CA | 2 year full stack school <span style="float:right">2017 - 2018</span>**
