@@ -1,6 +1,6 @@
 <h1 align="center">Hunter Casbeer</h1>
 <p align="center">Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249</p>
-[**Rithm School**](https://www.rithmschool.com/)
+
 
 
 
@@ -49,3 +49,6 @@
 - [**Rithm School**](https://www.rithmschool.com/) **| San Francisco, CA | 4 month full stack school <span style="float:right">2018</span>**
 - [**Holberton School**](https://www.holbertonschool.com/) **| San Francisco, CA | 2 year full stack school <span style="float:right">2017 - 2018</span>**
 - [**Kettering University**](https://www.kettering.edu/) **| Flint, MI | BS Electrical Engineering, GPA: 3.71/4.00 <span style="float:right">2012 - 2016</span>**
+
+
+[**Rithm School**](https://www.rithmschool.com/)
