@@ -37,7 +37,6 @@
 - Built and presented a test plan to NASA executives for [a rocket to reach space](https://www.youtube.com/watch?v=bFQfaAc__yE), 100,000 ft+
 - Led engine case and fuel grain development (made in house) for rocket propulsion to break 3000 mph
 - Simulated designs with RockSim software for verification of calculated values with 99% accuracy
-<br>
 
 <h3 align="center">Projects</h3>
 
