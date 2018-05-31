@@ -1,7 +1,6 @@
 <h1 align="center"> <center>Hunter Casbeer</h1>
 <p align="center">Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249</p>
-Website: (spacexengineer.github.io)[https://spacexengineer.github.io/] | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)
-[I'm an inline-style link](https://www.google.com)[Holberton School](https://www.holbertonschool.com/)
+[Holberton School](https://www.holbertonschool.com/)
 
 
 
