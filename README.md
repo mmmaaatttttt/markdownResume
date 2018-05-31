@@ -8,6 +8,7 @@
 
 
 <h3 align="center">Experience</h3>
+========
 
 <h4>Loom | San Francisco, CA | Software Developer Intern <span align="right">2018</span></h4>
 
