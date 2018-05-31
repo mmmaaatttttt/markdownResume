@@ -1,6 +1,6 @@
 <h1 align="center">Hunter Casbeer</h1>
 
-[**Rithm School**](https://www.rithmschool.com/)
+<p>[spacexengineer.github.io](https://spacexengineer.github.io/#Contact) | [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | [github.com/spacexengineer](https://github.com/spacexengineer)</p> 
 
 
 
