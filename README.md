@@ -5,7 +5,7 @@
 
 <h3 align="center">Experience</h3>
 
-<h5>Loom | San Francisco, CA | Software Developer Intern <span style="float:right">2018</span></h5>
+<h3>Loom | San Francisco, CA | Software Developer Intern <span style="float:right">2018</span></h3>
 
 - Built drag and drop feature Draft.js (React text editor) with 5+ supporting technologies: Draft.js, Immutable.js, React, Styled-Components, HTML5 drag and drop API; codebase included: GraphQL, Go, PostgreSQL
 - Documented implementations directly with founder and CEO with a team of less than 10 engineers
