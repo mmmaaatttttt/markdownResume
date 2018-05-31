@@ -1,6 +1,6 @@
 <h1 align="center"> <center>Hunter Casbeer</h1>
 <p align="center">Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249</p>
-<p align="center">Website: [spacexengineer.github.io](https://spacexengineer.github.io/#Contact) | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)</p>
+<p align="center">Website: [spacexengineer.github.io](https://spacexengineer.github.io/) | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)</p>
 
 
 <h3 align="center">Experience</h3>
@@ -11,24 +11,24 @@
 - Documented implementations directly with founder and CEO with a team of less than 10 engineers
 - Prototyped 10+ apps to solidify understanding of Draft.js
 
-<h5>Spira | Cork, Ireland | Co-founder | $100k backed by RebelBio <span style="float:right">2016</span></h5>
+<h4>Spira | Cork, Ireland | Co-founder | $100k backed by RebelBio <span style="float:right">2016</span></h4>
 
 - Developed mass-production algae bioreactor that produces spirulina at an ~80% quality production
 - Co-developed the company&#39;s first drink – our core product, live spirulina algae in a bottle, one of the first drinks in the world to have a consumable living organism growing in a bottle
 
-<h5> Tesla Motors | Palo Alto, CA | Closures Firmware Engineer Intern <span style="float:right">2016</span></h5>
+<h4> Tesla Motors | Palo Alto, CA | Closures Firmware Engineer Intern <span style="float:right">2016</span></h4>
 
 - Programmed C firmware and PCAN GUI for Model 3 power front doors t control 6+ door states
 - Developed electric motor efficiency map using real-time NI LabVIEW and MATLAB software
 - Reduced front door motor noise by 90% in all Model Xs by reprogramming voltages from CSV data
 
-<h5> Continental Automotive | Auburn Hills, MI | Sensor Modules Engineer Intern <span style="float:right">2012 - 2014</span></h5>
+<h4> Continental Automotive | Auburn Hills, MI | Sensor Modules Engineer Intern <span style="float:right">2012 - 2014</span></h4>
 
 - Identified cost-efficient alternative plastic for fuel sensors meeting performance specs saving $2 million
 - Led execution of FMEA (risk-comparison analysis)for proposed door handle mechanism
 - Performed troubleshooting for over 1000+ door handle sensors, transmission sensors, and fuel sensors
 
-<h5>SystemsGo Rocket Program | Fredericksburg, TX | Propulsion Engineer Intern <span style="float:right">2010 – 2012</span></h5>
+<h4>SystemsGo Rocket Program | Fredericksburg, TX | Propulsion Engineer Intern <span style="float:right">2010 – 2012</span></h4>
 
 - Built and presented a test plan to NASA executives for [a rocket to reach space](https://www.youtube.com/watch?v=bFQfaAc__yE), 100,000 ft+
 - Led engine case and fuel grain development (made in house) for rocket propulsion to break 3000 mph
