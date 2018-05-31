@@ -1,21 +1,3 @@
-<style>
-	* {
-	margin-top: -7px;
-	}
-	#top h1, #top1 {
-		margin-top: -25px;
-	}
-	
-	h3 {
-		margin-top: -18px;
-		margin-bottom: -5px;
-	}
-	
-	h5 {
-		margin-top: -10px;
-		margin-bottom: -15px;
-	}
-</style>
 <div id="top"><h1 align="center"> <center>Hunter Casbeer </center></h1></div>
 <center> 
 <div id="top1"><p>Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249
@@ -23,8 +5,7 @@
 [spacexengineer.github.io](https://spacexengineer.github.io/#Contact) | [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | [github.com/spacexengineer](https://github.com/spacexengineer)</p> </div>
 </center>
 
-<center><h3>Experience</h3></center>
----
+<h3 align="center">Experience</h3>
 
 <h5>Loom | San Francisco, CA | Software Developer Intern <span style="float:right">2018</span></h5>
 
@@ -56,15 +37,14 @@
 - Simulated designs with RockSim software for verification of calculated values with 99% accuracy
 <br>
 
-<center><h3>Projects</h3></center>
----
+<h3 align="center">Projects</h3>
 - [**Airbnb Clone**](https://github.com/spacexengineer/AirBnB_clone_v4) - full stack clone – Python, Flask, MySQL, jQuery, JavaScript, HTML, CSS, Nginx, Docker
 - [**Medium Search App**](https://github.com/spacexengineer/ParseMe) - search users blogs for keywords - Python, Jinja and Bootstrap
 - [**React-Redux Weather App**](https://github.com/spacexengineer/react-weather-app) - React, Redux, ES6 JavaScript, Bootstrap, Open Weather API
 - [**Simple Shell**](https://github.com/spacexengineer/simple_shell.git) - created custom C library functions to navigate a cloned unix shell
 - [**Linkedin Backend Clone**](https://github.com/spacexengineer/linkedlist-1) - Node.js, MongoDB, JSON web tokens, fully RESTful API with CRUD
 
-<center><h3>Education</h3></center>
+<h3 align="center">Education</h3>
 ---
 - [**Rithm School**](https://www.rithmschool.com/) **| San Francisco, CA | 4 month full stack school <span style="float:right">2018</span>**
 - [**Holberton School**](https://www.holbertonschool.com/) **| San Francisco, CA | 2 year full stack school <span style="float:right">2017 - 2018</span>**
