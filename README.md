@@ -1,6 +1,6 @@
-<h1 align="center"> <center>Hunter Casbeer</h1>
+<h1 align="center">Hunter Casbeer</h1>
 <p align="center">Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249</p>
-[Holberton School](https://www.holbertonschool.com/)
+[**Rithm School**](https://www.rithmschool.com/)
 
 
 
