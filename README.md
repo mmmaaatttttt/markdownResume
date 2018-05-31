@@ -9,7 +9,7 @@
 
 ---
 
-<p> align="center">
+<p align="center">
   JavaScript, Python, C, React, Redux, jQuery, Node.js, Flask, PostgreSQL, MySQL, MongoDB, HTML5, CSS3, Bootstrap, Git, Linux Ubuntu, Vagrant, Nginx, Gunicorn, Bash, Puppet  
 </p>
 
