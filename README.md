@@ -1,9 +1,8 @@
-<div id="top"><h1 align="center"> <center>Hunter Casbeer </center></h1></div>
-<center> 
-<div id="top1"><p>Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249
+<h1 align="center"> <center>Hunter Casbeer</h1>
+<p align="center">Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249</p>
 <br>
-[spacexengineer.github.io](https://spacexengineer.github.io/#Contact) | [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | [github.com/spacexengineer](https://github.com/spacexengineer)</p> </div>
-</center>
+<p align="center">Website: [spacexengineer.github.io](https://spacexengineer.github.io/#Contact) | LinkedIn: [linkedin/in/hcasbeer](https://www.linkedin.com/in/hcasbeer/) | Github: [github.com/spacexengineer](https://github.com/spacexengineer)</p>
+
 
 <h3 align="center">Experience</h3>
 
@@ -38,6 +37,7 @@
 <br>
 
 <h3 align="center">Projects</h3>
+
 - [**Airbnb Clone**](https://github.com/spacexengineer/AirBnB_clone_v4) - full stack clone – Python, Flask, MySQL, jQuery, JavaScript, HTML, CSS, Nginx, Docker
 - [**Medium Search App**](https://github.com/spacexengineer/ParseMe) - search users blogs for keywords - Python, Jinja and Bootstrap
 - [**React-Redux Weather App**](https://github.com/spacexengineer/react-weather-app) - React, Redux, ES6 JavaScript, Bootstrap, Open Weather API
@@ -45,7 +45,7 @@
 - [**Linkedin Backend Clone**](https://github.com/spacexengineer/linkedlist-1) - Node.js, MongoDB, JSON web tokens, fully RESTful API with CRUD
 
 <h3 align="center">Education</h3>
----
+
 - [**Rithm School**](https://www.rithmschool.com/) **| San Francisco, CA | 4 month full stack school <span style="float:right">2018</span>**
 - [**Holberton School**](https://www.holbertonschool.com/) **| San Francisco, CA | 2 year full stack school <span style="float:right">2017 - 2018</span>**
 - [**Kettering University**](https://www.kettering.edu/) **| Flint, MI | BS Electrical Engineering, GPA: 3.71/4.00 <span style="float:right">2012 - 2016</span>**
