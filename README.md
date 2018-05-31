@@ -1,4 +1,7 @@
+<h1 align="center">Hunter Casbeer</h1>
+
 [**Rithm School**](https://www.rithmschool.com/)
+
 
 
 <h3 align="center">Experience</h3>
