@@ -16,7 +16,7 @@
 		margin-bottom: -15px;
 	}
 </style>
-<div id="top"><h1> <center>Hunter Casbeer </center></h1></div>
+<div id="top"><h1 align="center"> <center>Hunter Casbeer </center></h1></div>
 <center> 
 <div id="top1"><p>Full Stack Developer, Bay Area, CA | hunter.casbeer@gmail | 830-992-9249
 <br>
